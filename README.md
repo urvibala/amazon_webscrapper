@@ -1,2 +1,2 @@
 # amazon_webscrapper
-log in into amazon account and sending sms of name and price of product in wishlist
+it log into amazon account and send sms of to a perticular phone number which contains name and price of product from wishlist
